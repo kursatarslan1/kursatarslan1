@@ -13,7 +13,7 @@
   current_job: C. Engineer
   education: 
     [
-      "Atatürk University Computer Engineer and Software Developer",
+      "Atatürk University Computer Engineer",
     ]
   
   company: Tringle
