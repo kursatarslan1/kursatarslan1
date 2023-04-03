@@ -10,7 +10,7 @@
 ```yaml
   name: Kürşat Arslan
   located_in: Tokat/Türkiye
-  current_job: C. Engineer
+  current_job: Software Developer
   education: 
     [
       "Atatürk University Computer Engineer",
