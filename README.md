@@ -41,6 +41,7 @@
       "Forms Application (C#)",
       "Big Data",
       "AI",
+      "UI/UX",
     ]
     
   
