@@ -7,13 +7,11 @@
 </h1>
 
 <p align="center" dir="auto">
-    <a href="https://www.instagram.com/krs.arslan/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="https://www.linkedin.com/in/krs-arslan/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-  <a href="https://twitter.com/krsarslan" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krsarslan" height="30" width="40" style="max-width: 100%;"></a>
+   <a href="https://twitter.com/krsarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krsarslan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/krs-arslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krs-arslan/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11702272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11702272" height="30" width="40" /></a>
+<a href="https://instagram.com/krs.arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krs.arslan" height="30" width="40" /></a>
+
 </p>
 
 
