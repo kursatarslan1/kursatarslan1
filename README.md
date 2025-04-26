@@ -31,7 +31,7 @@
       "Atatürk University Computer Engineer",
     ]
   
-  company: Tringle
+  company: Rootcodes
   
   fields_of_interests: 
     [
